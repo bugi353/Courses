@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506871957 source:c:\users\piotr\desktop\programowanie\projekty\5\ulepszona_srednia\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<cstdlib>
+

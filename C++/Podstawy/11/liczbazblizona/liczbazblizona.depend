@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507982363 source:c:\users\piotr\desktop\programowanie\projekty\11\liczbazblizona\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<cstdio>
+

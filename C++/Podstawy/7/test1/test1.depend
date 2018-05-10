@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507070975 source:c:\users\piotr\desktop\programowanie\projekty\7\test1\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+

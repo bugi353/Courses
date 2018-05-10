@@ -1,0 +1,9 @@
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\arkanoid\arkanoid\obj\Debug\arkanoid.Form1.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\arkanoid\arkanoid\obj\Debug\arkanoid.Properties.Resources.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\arkanoid\arkanoid\obj\Debug\arkanoid.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\arkanoid\arkanoid\obj\Debug\arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\arkanoid\arkanoid\obj\Debug\arkanoid.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\arkanoid\arkanoid\obj\Debug\arkanoid.pdb
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\arkanoid\arkanoid.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\arkanoid\arkanoid.pdb
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\arkanoid\arkanoid\obj\Debug\arkanoid.csprojResolveAssemblyReference.cache

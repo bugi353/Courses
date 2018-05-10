@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510160765 source:c:\users\piotr\desktop\programowanie\projekty\obiektowe\4\punkt_w_prostokacie_przyjazn\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1510160789 c:\users\piotr\desktop\programowanie\projekty\obiektowe\4\punkt_w_prostokacie_przyjazn\przyjaciele.h
+	<iostream>
+
+1510160158 source:c:\users\piotr\desktop\programowanie\projekty\obiektowe\4\punkt_w_prostokacie_przyjazn\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+

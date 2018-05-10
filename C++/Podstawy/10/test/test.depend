@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507978365 source:c:\users\piotr\desktop\programowanie\projekty\10\test\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<cstdio>
+	<cmath>
+

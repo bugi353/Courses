@@ -1,0 +1,9 @@
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Notatnik\Notatnik\bin\Debug\Note.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Notatnik\Notatnik\bin\Debug\Note.pdb
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Notatnik\Notatnik\obj\Debug\Note.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Notatnik\Notatnik\obj\Debug\Note.pdb
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Notatnik\Notatnik\obj\Debug\Notatnik.csprojResolveAssemblyReference.cache

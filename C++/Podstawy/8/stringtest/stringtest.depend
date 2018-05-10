@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507412202 source:c:\users\piotr\desktop\programowanie\projekty\8\stringtest\main.cpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,9 @@
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe.pdb

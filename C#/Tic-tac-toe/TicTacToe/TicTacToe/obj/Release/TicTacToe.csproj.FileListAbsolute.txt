@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Release\TicTacToe.Form1.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Release\TicTacToe.Properties.Resources.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\Tic-tac-toe\TicTacToe\TicTacToe\obj\Release\TicTacToe.pdb

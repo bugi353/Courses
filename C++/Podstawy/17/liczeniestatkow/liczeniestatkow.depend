@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508881606 source:c:\users\piotr\desktop\programowanie\projekty\17\liczeniestatkow\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

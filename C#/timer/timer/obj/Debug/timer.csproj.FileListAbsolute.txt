@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\timer\timer\obj\Debug\timer.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\timer\timer\obj\Debug\timer.pdb
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\timer\timer\timer.exe
+C:\Users\Piotr\Desktop\programowanie\Projekty\C#\timer\timer\timer.pdb

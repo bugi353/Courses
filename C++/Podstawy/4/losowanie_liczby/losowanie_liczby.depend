@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506625105 source:c:\users\piotr\desktop\programowanie\projekty\4\losowanie_liczby\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

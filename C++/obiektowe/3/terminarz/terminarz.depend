@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510075501 source:c:\users\piotr\desktop\programowanie\projekty\obiektowe\3\terminarz\main.cpp
+	<iostream>
+	"event.h"
+
+1510075527 c:\users\piotr\desktop\programowanie\projekty\obiektowe\3\terminarz\event.h
+	<iostream>
+
+1510075317 source:c:\users\piotr\desktop\programowanie\projekty\obiektowe\3\terminarz\event.cpp
+	<iostream>
+	"event.h"
+

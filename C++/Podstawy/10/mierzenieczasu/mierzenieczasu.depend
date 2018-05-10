@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507753568 source:c:\users\piotr\desktop\programowanie\projekty\10\mierzenieczasu\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+

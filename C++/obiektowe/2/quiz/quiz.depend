@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1509831499 source:c:\users\piotr\desktop\programowanie\projekty\obiektowe\2\quiz\main.cpp
+	<iostream>
+	"pytanie.h"
+
+1509660157 c:\users\piotr\desktop\programowanie\projekty\obiektowe\2\quiz\pytanie.h
+	<iostream>
+
+1509831767 source:c:\users\piotr\desktop\programowanie\projekty\obiektowe\2\quiz\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+	<algorithm>
+
